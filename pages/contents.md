@@ -1,2 +1,2 @@
 -
-- {{renderer :tocgen2, [[前行系列3/5因果不虚(023-036)(业自性)]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[前行系列4/1闻法行为]], calc(100vh - 135px)}}
