@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["禅修班视频"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :publishing/all-pages-public? true}
