@@ -1,3 +1,4 @@
 -
 - {{renderer :tocgen2, [[大圆满前行/1闻法方式]], calc(100vh - 135px)}}
 - {{renderer :tocgen2, [[大圆满前行/2所讲之法/2不共内加行/2发殊胜菩提心]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[前行备忘录]], calc(100vh - 135px)}}
