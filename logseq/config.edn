@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["禅修班视频"]
+ :favorites ["大圆满前行" "禅修班视频"]
 
  ;; Set flashcards interval.
  ;; Expected value:
