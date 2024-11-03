@@ -1,6 +1,2 @@
 -
-- {{renderer :tocgen2, [[前行系列4/2暇满难得]], calc(100vh - 135px)}}
-- {{renderer :tocgen2, [[前行系列4/3寿命无常]], calc(100vh - 135px)}}
-- {{renderer :tocgen2, [[前行系列4/4轮回过患]], calc(100vh - 135px)}}
-- {{renderer :tocgen2, [[前行系列4/5业果不虚]], calc(100vh - 135px)}}
-- {{renderer :tocgen2, [[大圆满心性休息大车疏/8发菩提心]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[禅修班视频/第一册/暇满难得1]], calc(100vh - 135px)}}
