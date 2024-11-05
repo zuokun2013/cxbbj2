@@ -1,2 +1,3 @@
 -
 - {{renderer :tocgen2, [[禅修班视频/第一册/暇满难得2]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[前行广释辅导/01引文/第001课]], calc(100vh - 135px)}}
