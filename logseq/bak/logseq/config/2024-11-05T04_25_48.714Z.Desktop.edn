@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["观修笔记" "禅修课教材" "禅修班视频" "前行系列4" "前行系列3" "观修笔记/四加行/1暇满难得/01地狱无暇" "大圆满心性休息大车疏" "前行备忘录" "菩提道次第广论" "大圆满前行"]
+ :favorites ["禅修课教材" "前行系列4" "前行系列3" "观修笔记/四加行/1暇满难得/01地狱无暇" "大圆满心性休息大车疏" "前行备忘录" "菩提道次第广论" "大圆满前行" "禅修班视频"]
 
  ;; Set flashcards interval.
  ;; Expected value:
