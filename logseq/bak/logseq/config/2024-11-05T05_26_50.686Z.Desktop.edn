@@ -421,6 +421,4 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
  :ui/show-brackets? false
- :publishing/all-pages-public? true
- :feature/enable-flashcards? false
- :feature/enable-whiteboards? false}
+ :publishing/all-pages-public? true}
