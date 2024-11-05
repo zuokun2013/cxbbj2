@@ -1,1 +1,2 @@
-- {{renderer :tocgen2, [[菩提道次第广论/讲记2]], calc(100vh - 135px)}}
+-
+- {{renderer :tocgen2, [[禅修班视频/第一册/暇满难得2]], calc(100vh - 135px)}}
